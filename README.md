@@ -1,1 +1,1 @@
-# IAE musical dice game does not have the audio files cause idk how to upload 200 files lol
+# Musical dice game files are in Notes, but you should edit code to get the notes appropiately or smth
